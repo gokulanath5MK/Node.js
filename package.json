@@ -1,0 +1,27 @@
+{
+  "name": "node.js_task-2",
+  "version": "1.0.0",
+  "description": "Hall booking api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokulanath5MK/Node.js/tree/Node.js-2"
+  },
+  "author": "gokulanath mk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokulanath5MK/Node.js/tree/Node.js-2/issues"
+  },
+  "homepage": "https://github.com/gokulanath5MK/Node.js/tree/Node.js-2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
